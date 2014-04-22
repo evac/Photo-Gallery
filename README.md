@@ -1,7 +1,7 @@
 Photo Gallery
 -------------
 
-A simple, responsive photo gallery with jQuery on the front-end and Flask framework on the back-end. All HTML, CSS and icons handcoded. Also comes in two theme styles that you can toggle at the bottom of the page.
+A simple, responsive photo gallery with jQuery on the front-end and Flask framework on the back-end. All HTML, CSS and icons handcoded. Also comes in two theme styles that you can toggle at the bottom of the site.
 
 Install dependencies and run as follows:
 ```
